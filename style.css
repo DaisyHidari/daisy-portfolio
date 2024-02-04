@@ -12,17 +12,25 @@ h3 {
     position: fixed;
     top: 0;
     z-index: 9999;
-    
-}
-.name {
-    margin-right: 200px;
-    text-align: left;
+    display: block;
+
 }
 
-.links {
-    margin-left: 50px;
-    box-sizing: content-box;
-    align-content: flex-end;
+
+.link1 {
+    /* align-content: center; */
+    width: 50%;
+    margin-left: 800px;
+}
+.link2 {
+    /* align-content: center; */
+    width: 50%;
+    margin-left: 900px;
+}
+.link3 {
+    /* align-content: center; */
+    width: 50%;
+    margin-left: 1000px;
 }
 
 
