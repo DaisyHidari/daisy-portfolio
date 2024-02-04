@@ -1,0 +1,42 @@
+html {
+    background-color: #262626;
+
+}
+
+
+
+h3 {
+    background-color: #2A9D8F;
+    padding: 20px;
+    color: aliceblue;
+    position: fixed;
+    top: 0;
+    z-index: 9999;
+    
+}
+.name {
+    margin-right: 200px;
+    text-align: left;
+}
+
+.links {
+    margin-left: 50px;
+    box-sizing: content-box;
+    align-content: flex-end;
+}
+
+
+h1 {
+    color: #F4A261;
+    padding-top: 100px;
+}
+
+p {
+    color: #E9C46A;
+}
+
+
+img {
+    width: 500px;
+    padding-left: 700px;
+}
