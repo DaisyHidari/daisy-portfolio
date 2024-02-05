@@ -1,6 +1,6 @@
 html {
     background-color: #262626;
-
+    font-family: sans-serif;
 }
 
 
@@ -13,9 +13,7 @@ h3 {
     top: 0;
     z-index: 9999;
     display: block;
-
 }
-
 
 .link1 {
     /* align-content: center; */
@@ -41,10 +39,17 @@ h1 {
 
 p {
     color: #E9C46A;
+    display: inline-flex;
 }
 
 
 img {
     width: 500px;
     padding-left: 700px;
+    display: inline-flex;
+}
+
+.Logo {
+    width: 200px;
+    display: inline-flex;
 }
