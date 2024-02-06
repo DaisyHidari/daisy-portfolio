@@ -53,3 +53,8 @@ img {
     width: 200px;
     display: inline-flex;
 }
+
+.tanaka, .funabashi {
+    color: #E9C46A;
+    display: inline-flex;
+}
