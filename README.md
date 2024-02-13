@@ -13,3 +13,11 @@
 - Profressional Profile Pictures
 - External Links for LinkedIn
 - Other misc.
+
+### Updates as of February 12th, 2024:
+
+- Added a Contact Me page
+- Added grids
+- Updated CSS styling
+- Added hover effects to directories
+- Formatted some contents
